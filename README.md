@@ -4,4 +4,4 @@
 
 # files
 
-- [/conf.php](/conf.php) -- placed in cfg/conf.php of your privatebin root directory
+- [/conf.php](/conf.php) : placed in cfg/conf.php of your privatebin root directory
