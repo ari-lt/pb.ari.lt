@@ -1,3 +1,4 @@
+# This repository has been migrated to the self-hosted ari-web Forgejo instance: <https://git.ari.lt/ari/pb.ari.lt>
 # [pb.ari.lt](https://pb.ari.lt/)
 
 > ari-web privatebin instance
